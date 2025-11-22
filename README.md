@@ -58,7 +58,7 @@ Laptop_price_predictor/
 ---
 
 ## 🌐 Live Demo
-[Live Demo Link](#) <!-- Replace with actual URL if deployed -->
+[https://laptop-pricepredictorr.streamlit.app/](#) <!-- Replace with actual URL if deployed -->
 
 ---
 
@@ -121,4 +121,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ---
 
 ## 📄 License
+
 This project is licensed under the MIT License. 
